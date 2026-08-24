@@ -1,6 +1,6 @@
 {
-  "phase": "scaffold_cloned",
-  "updated_at": "2026-08-24T01:17:35.112880+00:00",
+  "phase": "github_push_started",
+  "updated_at": "2026-08-24T01:38:09.408442+00:00",
   "slug": "fizzy-home-place",
   "type": "shop",
   "package": "thefizzyrascal.household.fizzyhomeplace",
@@ -12,6 +12,15 @@
   "domain": "https://thefizzyrascal.casa",
   "company": "THE FIZZY RASCAL LIMITED",
   "repo_url": "https://github.com/ArtCode379/fizzy-home-place",
-  "quality_status": "not_run",
-  "build_status": "not_run"
+  "quality_status": "passed",
+  "build_status": "passed",
+  "icon_primary": "#B5523C",
+  "icon_status": "imagegen",
+  "icon_error": "generate-icon.sh exited 1",
+  "quality_attempt": 2,
+  "quality_errors": 0,
+  "quality_result_file": "/tmp/fizzy-home-place/quality-result.txt",
+  "build_attempt": 2,
+  "build_exit_code": 0,
+  "build_result_file": "/tmp/fizzy-home-place/build-result.txt"
 }
